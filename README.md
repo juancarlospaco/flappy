@@ -16,6 +16,17 @@ instructions:
 - Double click flappy.blend to open it, when it opens press P on the Keyboard.
 - Flap with SPACEBAR or UP Arrow on the Keyboard.
 
+**Execute on stand-alone mode (not opening Blender):**
+
+```bash
+$ blenderplayer flappy.blend
+```
+
+**To Hack the game all logic is on this file:**
+
+https://github.com/juancarlospaco/flappy/blob/master/main.py
+
+
 Requisites:
 -----------
 
