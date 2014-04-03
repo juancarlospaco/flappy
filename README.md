@@ -1,4 +1,6 @@
 flappy
 ======
 
-flappy bird like game
+Flappy Bird like game
+
+On 50 Lines of Python
